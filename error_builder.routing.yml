@@ -1,0 +1,7 @@
+error_builder.shout_out:
+  path: '/admin/shout'
+  defaults:
+    _title: 'Yo Momma'
+    _controller: '\Drupal\error_builder\Controller\errorController::shoutOut'
+  requirements:
+    _permission: 'access content'

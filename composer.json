@@ -1,0 +1,6 @@
+{
+    "name": "org/condo_unit",
+    "description": "BasicFeatures of a condo unit.",
+    "type": "drupal-module",
+    "homepage": "https://yourcondo.net"
+}
