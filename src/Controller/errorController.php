@@ -11,7 +11,7 @@ class errorController extends ControllerBase {
 
   /**
    * Bounces by Date Summary Report.
-   * Version 2
+   * Version 3
    */
   public function shoutOut() {
      $build['header'] = [
